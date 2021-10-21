@@ -6,6 +6,7 @@ begin
     result := True;
   end;
 
+function SecondsInMinute(minutes: integer): integer := minute * 60;  
 
 begin
   
