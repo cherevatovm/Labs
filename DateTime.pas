@@ -18,6 +18,11 @@ begin
   
 end;
 
+function DaysInYearRange(year1, year2: integer): integer;
+begin
+  
+end;
+
 begin
   
 end.
