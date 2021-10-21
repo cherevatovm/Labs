@@ -6,6 +6,22 @@ begin
     result := True;
   end;
 
+function SecondsInMinute(minutes: integer): integer := minute * 60;  
+
+function LaterInYear(n: integer): integer;
+begin
+  
+end;
+
+function DaysInYear(year: integer): integer;
+begin
+  
+end;
+
+function DaysInYearRange(year1, year2: integer): integer;
+begin
+  
+end;
 
 begin
   
